@@ -1,0 +1,12 @@
+{
+  "name": "mongo-minify",
+  "version": "0.1.0",
+  "dependencies": {
+    "component/type": "*",
+    "component/object": "*"
+  },
+  "devDependencies": {
+    "visionmedia/mocha": "*",
+    "learnboost/expect.js": "*"
+  }
+}
