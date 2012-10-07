@@ -23,5 +23,6 @@ minify({ $set: { 'name.first': 'Guillermo', age: 50 } }, { name: 1 });
 
 ### minify(query[, restrictions])
 
-  `query` is any `update` or `findAndModify` query passed to MongoDB,
-  while `restrictions` is the fields selection format used with `find*`.
+  `query` is any `update` or `findAndModify` query passed to MongoDB.
+
+  `restrictions` is the fields selection format used with `find*`.
