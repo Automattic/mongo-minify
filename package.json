@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "type-component": "*",
-    "object-component": "*"
+    "type-component": "0.0.1",
+    "object-component": "0.0.3"
   },
   "devDependencies": {
     "mocha": "*",
